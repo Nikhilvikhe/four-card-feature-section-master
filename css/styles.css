@@ -3,15 +3,20 @@ body{
   text-align: center;
   padding-top: 50px;
   font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
 }
 
 .head1{
   font-weight: 200;
-  color: hsl(234, 12%, 34%);
+  color: hsl(229, 6%, 66%);
+  margin-bottom: 2px;
+  font-size: 35px;
 }
 
 .head2{
   font-weight: 600;
+  margin-top: 0;
+  color: hsl(234, 12%, 34%);
 }
 
 .head3{
@@ -24,7 +29,7 @@ body{
 .container{
   position: relative;
   border-style: none;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 
